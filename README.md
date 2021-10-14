@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdullah bin habib
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently pursuing my B.Sc. in Computer Science & Engineering at KUET
 - 💞️ I’m looking to collaborate with Software Industry
 - 📫 reach me binhabibabdullah@gmail.com
